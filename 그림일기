@@ -1,14 +1,78 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T04:07:54.080Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="P1blbXLX2vsq-CzvANIo" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-28T04:13:41.019Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="j1rOBp10PvkdgvlXeqbr" version="20.8.23" type="github">
   <diagram name="페이지-1" id="5NMCCUFEp2quGPfsl5EZ">
     <mxGraphModel dx="1050" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FHagxcK23MVCgcSrWeIu-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="FHagxcK23MVCgcSrWeIu-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=27;" edge="1" parent="1" source="FHagxcK23MVCgcSrWeIu-1" target="FHagxcK23MVCgcSrWeIu-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FHagxcK23MVCgcSrWeIu-1" value="학교가 끝남" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FHagxcK23MVCgcSrWeIu-2" value="학교에 갇혔어" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="1">
-          <mxGeometry x="50" y="80" width="180" height="30" as="geometry" />
+          <mxGeometry x="360" y="80" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FHagxcK23MVCgcSrWeIu-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="FHagxcK23MVCgcSrWeIu-3" target="FHagxcK23MVCgcSrWeIu-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FHagxcK23MVCgcSrWeIu-3" value="학교에 가방을 놓고 옴" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="350" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FHagxcK23MVCgcSrWeIu-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="FHagxcK23MVCgcSrWeIu-5" target="FHagxcK23MVCgcSrWeIu-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FHagxcK23MVCgcSrWeIu-5" value="저녁을 먹다 다시 학교로 돌아감" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="350" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FHagxcK23MVCgcSrWeIu-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="FHagxcK23MVCgcSrWeIu-7" target="FHagxcK23MVCgcSrWeIu-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FHagxcK23MVCgcSrWeIu-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="FHagxcK23MVCgcSrWeIu-7" target="FHagxcK23MVCgcSrWeIu-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FHagxcK23MVCgcSrWeIu-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="FHagxcK23MVCgcSrWeIu-7" target="FHagxcK23MVCgcSrWeIu-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FHagxcK23MVCgcSrWeIu-7" value="어두운 교실&lt;br&gt;뭐가 나올 거 같음" style="whiteSpace=wrap;html=1;fontSize=13;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FHagxcK23MVCgcSrWeIu-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FHagxcK23MVCgcSrWeIu-9" target="FHagxcK23MVCgcSrWeIu-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="590" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FHagxcK23MVCgcSrWeIu-9" value="창문을 열어봄" style="whiteSpace=wrap;html=1;fontSize=13;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FHagxcK23MVCgcSrWeIu-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="FHagxcK23MVCgcSrWeIu-11" target="FHagxcK23MVCgcSrWeIu-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FHagxcK23MVCgcSrWeIu-11" value="교실 앞문을 열어봄" style="whiteSpace=wrap;html=1;fontSize=13;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FHagxcK23MVCgcSrWeIu-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FHagxcK23MVCgcSrWeIu-13" target="FHagxcK23MVCgcSrWeIu-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FHagxcK23MVCgcSrWeIu-13" value="책상 아래를 살펴봄" style="whiteSpace=wrap;html=1;fontSize=13;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FHagxcK23MVCgcSrWeIu-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="FHagxcK23MVCgcSrWeIu-19" target="FHagxcK23MVCgcSrWeIu-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FHagxcK23MVCgcSrWeIu-19" value="귀신이 나타남&lt;br&gt;(해당 장면의 귀신을 자유롭게 그릴 수 있음)" style="whiteSpace=wrap;html=1;fontSize=13;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="335" y="770" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FHagxcK23MVCgcSrWeIu-26" value="" style="whiteSpace=wrap;html=1;fontSize=13;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="870" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
